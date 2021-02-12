@@ -1,6 +1,7 @@
-*Apenas um estudante de física.*
+# Just a physics student.
 
-- Tenho um repositório com filtros de Adblock e arquivo hosts, caso não goste de anúncios e de ser "seguido" na internet!
+- Interested in privacy and security.
+- I have a hosts file and Adblock filter.
 
 <!---
 MRLimcon/MRLimcon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
