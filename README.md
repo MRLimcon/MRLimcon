@@ -1,9 +1,11 @@
-# Somente um estudante de física
+# Um estudante de física com amor pela tecnologia
 
 Sou interessado em:
 
 - Simulações físicas;
 - Privacidade e segurança;
+- Sistemas embarcados;
+- Estatística e machine learning;
 - Web;
 - Linux;
 - O que der na telha.
