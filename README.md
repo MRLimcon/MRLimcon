@@ -10,7 +10,7 @@ Sou interessado em:
 - Linux;
 - O que der na telha.
 
-Principais linguages:
+Principais linguagens:
 - Python;
 - C/C++;
 - C# (.Net Framework e .Net Core);
